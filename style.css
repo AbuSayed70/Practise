@@ -1,0 +1,101 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.section-one {
+    color: aliceblue;
+}
+
+.color {
+    color: rgb(228, 52, 8);
+}
+
+.section-one-div {
+    background-image: url(images/topsy.png);
+    display: flex;
+    width: 100%;
+    margin-right: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 10%;
+}
+
+.class-div1 {
+    padding: 2%;
+    width: 90%;
+    border: 10px solid lightslategray;
+    border-radius: 20%;
+    border-image: linear-gradient(rgb(201, 41, 52), rgb(40, 190, 45), rgb(220, 134, 113)) 1;
+
+}
+
+.class-div2 {
+    padding: 2%;
+    width: 90%;
+    border: 10px solid lightslategray;
+    border-radius: 20%;
+    border-image: linear-gradient(rgb(220, 67, 67), rgb(40, 213, 63), rgb(220, 134, 113)) 1;
+}
+
+.class-div3 {
+    padding: 2%;
+    width: 90%;
+    border: 10px solid lightslategray;
+    border-radius: 20%;
+    border-image: linear-gradient(rgb(218, 59, 59), rgb(24, 212, 49), rgb(220, 134, 113)) 1;
+}
+
+#button {
+    position: center;
+    color: antiquewhite;
+    padding: 5px 20px;
+    border-radius: 10px;
+    font-style: italic;
+    text-align: center;
+
+    text-decoration: none;
+    font-weight: 700;
+    background-color: rgb(18, 221, 239);
+}
+
+.section-two {
+    margin-top: 5%;
+    width: 100%;
+}
+
+.section-third {
+    width: 100%;
+}
+
+.section-two audio {
+    width: 103%;
+    background-image: url(images/sky.jpg);
+}
+
+.section-two video {
+    width: 103%;
+}
+
+.table {
+    border: 5px solid blueviolet;
+}
+
+.table-style {
+    width: 100%;
+}
+
+.caption {
+    font-weight: 700;
+    color: rgb(238, 68, 34);
+    background-color: aqua;
+}
+
+.thead-class {
+    background-color: cornflowerblue;
+}
+
+.order-button {
+    padding: 10px 20px;
+    color: antiquewhite;
+    background-color: cadetblue;
+}
